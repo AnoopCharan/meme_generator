@@ -74,5 +74,8 @@ button:focus-visible {
 
 body {
   font-family: "Karla", sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   margin: 0;
 }
